@@ -1,0 +1,38 @@
+Leader of climbing
+
+You were the first to explore all the summits of Goatland! Now you placed safety cables everywhere, the non-professionals can go visit them too if they want.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Mointaineer Goat: You have a beard, and you can place solid cables.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][RightClick]+[E]:[/b] Attach first end of a cable at crosshair location.
+- [b][E]:[/b] Attach second end of a cable at crosshair location.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][LT]+[X]:[/b] Attach first end of a cable at crosshair location.
+- [b][X]:[/b] Attach second end of a cable at crosshair location.
+
+[b]CHARACTERISTICS[/b]
+- You can only attach cables to unmovable and indestructible objects.
+- The crosshait is green when you can attach a cable, else it's red.
+- Cables are destroyed by goat attacks and by exposions.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Annoyed by steeve running around in your house? Cables are pretty efficient as barriers or traps too :)[/spoiler]
+- [spoiler]Apparently cables can be attached to the water surface... Enjoy floating cables ^^[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- When moving a cable around and after attaching it, the cable can pass through items: yes.
+- Moving objects and ragdolled bodies will pass through cables: yes.
+- Sometimes one end of a cable may appear a few centimeters away from the surface where it is attached.
+- Trying to destroy very long cables might fail, try to do it at the other end of the cable to fix.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod was originally called Grapling Hook, but as I made an actual hook for the Rico Rodrigoat mod, I had to think about a better name and context for this mod ^^
+The idea behind this mod was to have solid wires that you can attach between two pints, then walk on them so I started making the solid cables before finding the definitive mod name.
+The cables have the same visual as the hooks used by Rico Rodrigoat, but this time I had to give them proper collisions to make it possible for the goat to ride them. I also improved the cable scaling a bit so that both ends of a cable will appear to stick to the surface they are attached to as much as possible. It's still not perfect, but it's better than the hook at least :p
+Finally, after playing around with them, I figured out that a Mountaineer would make perfect sense to have the ability to place ropes everywhere! So I tried to find a few outfit parts thay would match this type of character and ended up with a beard and a scarf (no beanie to be found in the game files :/). Sadly, the scarf was glitching out after a few minuted of gameplay and before that it was quite annoying because it was blocking the view, so I decided to remove it.
+[/quote]
